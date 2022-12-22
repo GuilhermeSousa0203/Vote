@@ -1,0 +1,16 @@
+{
+    "name": "guisou/vote",
+    "description": "Open source voting system",
+    "autoload": {
+        "psr-4": {
+            "Vote\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Sousa",
+            "email": "guill.alves.sousa@gmail.com"
+        }
+    ],
+    "require": {}
+}
